@@ -3,7 +3,7 @@
 
   <footer>
     <hr>
-    Camping InfraWeb 2024 - Copyright &copy; (Votre nom)
+    Camping InfraWeb 2024 - Copyright &copy; Maybelline Thillays
   </footer>
 
   
